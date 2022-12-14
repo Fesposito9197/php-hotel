@@ -66,7 +66,7 @@
                         <th scope="col">Parking</th>
                         <th scope="col">Vote</th>
                         <th scope="col">Distance to center</th>
-                        </tr>
+                    </tr>
                 </thead>
                 <tbody class="table-group-divider">
 
